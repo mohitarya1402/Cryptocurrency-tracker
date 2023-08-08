@@ -1,3 +1,5 @@
+# Live URL
+https://cozy-banoffee-e29e6d.netlify.app/coin-details/bitcoin
 # ChartPractice
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.7.
