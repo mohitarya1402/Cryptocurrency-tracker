@@ -1,0 +1,45 @@
+.coin-child{
+    height: 15rem;
+    width: 12rem;
+}
+.coin-child img{
+    height: 8rem;
+}
+.card{
+    width: 10rem;
+    margin: 40px;
+    border: 0   ;
+}
+table {
+    width: 100%;
+  }
+  
+  .mat-mdc-form-field {
+    font-size: 14px;
+    width: 100%;
+  }
+  
+  td, th {
+    width: 25%;
+  }
+
+
+:host ::ng-deep .mat-sort-header-content {
+    color: #fff;
+}
+
+:host ::ng-deep .mat-paginator-outer-container {
+    background-color: rgb(36, 37, 37);
+}
+
+:host ::ng-deep tr.mat-header-row {
+    background-color: #009688;
+}
+
+:host ::ng-deep tr.mat-row {
+    height: 70px;
+}
+mat-label{
+    color: #fff;
+    font-size: 1.5rem;
+}
